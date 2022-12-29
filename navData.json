@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nav": "Modules",
+        "link": "#"
+    },
+    {
+        "id": 2,
+        "nav": "Applications",
+        "link": "#",
+        "subNav": {
+            "subNav1": "Clinical Labs/ Diagnostic Centers",
+            "subNav2": "Veterinary",
+            "subNav3": "Industrial Equipment Calibration"
+        }
+    },
+    {
+        "id": 3,
+        "nav": "Our Clients",
+        "link": "#"
+    },
+    {
+        "id": 4,
+        "nav": "About Us",
+        "link": "#",
+        "subNav": {
+            "subNav1": "Clinical Labs/ Diagnostic Centers",
+            "subNav2": "Veterinary",
+            "subNav3": "Industrial Equipment Calibration"
+        }
+    },
+    {
+        "id": 5,
+        "nav": "HelpDesk",
+        "link": "#"
+    },
+    {
+        "id": 6,
+        "nav": "Learn NexusPro",
+        "link": "#"
+    },
+    {
+        "id": 7,
+        "nav": "Contact Us",
+        "link": "#"
+    }
+]

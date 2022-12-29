@@ -1,0 +1,17 @@
+.links{
+    letter-spacing: 1px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.subMenuOpen{
+    transform: rotate(180deg);
+    transition: transform 0.2s ease-in-out;
+}
+.subMenuClose{
+    transform: rotate(0deg);
+    transition: transform 0.2s ease-in-out;
+}
+.back{
+    background-color: blueviolet;
+}
